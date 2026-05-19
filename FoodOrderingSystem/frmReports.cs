@@ -24,7 +24,7 @@ namespace FoodOrderingSystem
 
         private void frmReports_Load(object sender, EventArgs e)
         {
-            btnDashboard.BackColor = System.Drawing.Color.FromArgb(0, 122, 204);
+            btnDashboard.BackColor = System.Drawing.Color.FromArgb(0, 122, 203);
             btnDashboard.ForeColor = System.Drawing.Color.White;
 
             // 1. Set default dates (From the 1st of the current month, to Today)

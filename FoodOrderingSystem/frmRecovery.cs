@@ -42,7 +42,7 @@ namespace FoodOrderingSystem
 
             if (emailInput == "" || answerInput == "")
             {
-                MessageBox.Show("Please fill in both fields.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Please fell in both fields.", "Notice", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
